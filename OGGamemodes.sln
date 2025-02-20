@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGGamemodes", "OGGamemodes.csproj", "{535274A7-F0AD-43AF-9E99-F87F84E72515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535274A7-F0AD-43AF-9E99-F87F84E72515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535274A7-F0AD-43AF-9E99-F87F84E72515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535274A7-F0AD-43AF-9E99-F87F84E72515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535274A7-F0AD-43AF-9E99-F87F84E72515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
